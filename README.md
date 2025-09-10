@@ -54,7 +54,7 @@ make tar
 This section presents instructions for creating a submission for grading on Autolab, the grading server for CSCI 2410. 
 
 1. [Submitting Assignments](#submitting-assignments)
-2. [Submitting Testing assessment](#submitting-testing-assessment)
+<!-- 2. [Submitting Testing assessment](#submitting-testing-assessment) -->
 
 
 ## submitting-assignments
@@ -81,12 +81,29 @@ Follow these instructions to create a grading submission on Autolab.
 
 ![](./img/release-4.png)
 
-7. Download the release file by heading to the **Releases** section and under the release you want to submit, click on **Source code (tar.gz)**
+7. Download the release file by heading to the **Releases** section and under the release you want to submit, click on **Source code (tar.gz)**. This downloads a file named `<your-release-name>.tar.gz`.
 
 ![](./img/release-5.png)
 
 #### Step-2: Submit assessment 
 
+1. Head to the [submit server](https://submit.cs.seas.gwu.edu/courses/csci2410_f25/assessments)
+2. Select the assessment you want to grade a submission for. 
+
+![](./img/submit-1.png)
+
+3. In the Assessment section, upload the `.tar.gz` file you just downloaded and hit `Submit`. 
+
+![](./img/submit-2.png)
+
+4. Head to back to the Assessment page and scroll down to see the submissions. You can see the grade for your recently submitted assignments. 
+
+![](./img/submit-3.png)
+
+5. To know more details about the grades select **View Source**
+
+![](./img/submit-5.png)
+
+![](./img/submit-4.png)
 
 
-## submitting-testing-assessment
