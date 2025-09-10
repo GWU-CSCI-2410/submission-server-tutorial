@@ -34,20 +34,6 @@ Navigate to the submit server [webpage](https://submit.cs.seas.gwu.edu/)
 ![Course View could not load](img/studentviewcourse.png "Course View")
 
 ### Here you will find all of the Homeworks/Assessments.
-1. Click on the homework/assessment you would like to submit material for
-![Assignment Submission could not load](img/assignmentsubmission.png "Assignment Submission")
-
-2. In your terminal (make sure you are in the correct directory), run:
-```bash
-make tar
-```
-
-3. Go back to the submit website, drag and drop the submission.tgz file into the submission area.
-
-4. Read the checkbox conditions and proceed
-
-5. Click ```Submit```
-
 
 # Making a submission
 
