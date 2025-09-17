@@ -2,7 +2,7 @@
 
 Follow these instructions carefully to avoid merge conflicts on your HW0.75
 
-1. Create a backup of you current work. You can do it by either manually copying the files locally or running the following commands on the submit server. This step is important so check carefully if your backup was correctly created. Do this to avoid losing your work. If you have confusions, please contact us before proceeding with the next steps. 
+1. Create a backup of you current work. You can do it by manually copying the files locally. This step is important so check carefully if your backup was correctly created. Do this to avoid losing your work. If you have confusions, please contact us before proceeding with the next steps. 
 
 2. Go to your repository's github, and click on `Sync Fork`
 
