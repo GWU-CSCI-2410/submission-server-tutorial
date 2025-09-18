@@ -33,4 +33,4 @@ git push
 
 3. Go to your github repository 
 
-4. Follow the instructions in [](./SUBMIT.md)
+4. Follow the instructions in [SUBMIT.md](./SUBMIT.md)
