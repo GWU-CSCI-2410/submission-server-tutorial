@@ -24,7 +24,7 @@ git add .gitattributes
 ```
 
 ```
-git add -m "update .gitattributes"
+git commit -m "update .gitattributes"
 ```
 
 ```
