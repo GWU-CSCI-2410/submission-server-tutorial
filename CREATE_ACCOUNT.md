@@ -6,7 +6,7 @@ A tutorial to guide students through setting up their accounts with the submissi
 Navigate to the submit server [webpage](https://submit.cs.seas.gwu.edu/)
 
 ## Step 2: Credentials
-> **NOTE**: The email you enter *must* be the same email placed in the submission form from the beginning of the semester (i.e. gwmail.gwu or gwu.edu)
+> **NOTE**: You **must** use your @gwu.edu email.
 
 ![Login Image could not load](img/login.png "Login Page")
 
@@ -18,7 +18,7 @@ Navigate to the submit server [webpage](https://submit.cs.seas.gwu.edu/)
 
 3. Click ```Send Me Reset Password Instructions```
 
-4. Wait around 5 minutes for the email to reach your inbox
+4. Wait around 5 minutes for the email to reach your inbox (Don't click mulitple times)
 
 ![Reset Password Email could not load](img/resetpasswordemail.png "Reset Password Email")
 
