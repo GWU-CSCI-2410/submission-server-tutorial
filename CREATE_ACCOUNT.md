@@ -14,7 +14,7 @@ Navigate to the submit server [webpage](https://submit.cs.seas.gwu.edu/)
 1. Click ```Forgot your password?```
 ![Forgot Email Image could not load](img/forgotemail.png "Forgot Email Page")
 
-2. Enter GW Email
+2. Enter GW Email (@gwu.edu)
 
 3. Click ```Send Me Reset Password Instructions```
 
